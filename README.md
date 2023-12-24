@@ -21,8 +21,6 @@ This is a simple REST API to get grailed store data. It runs on port 3000 by def
 
 ### Request
 
-### Request
-
 `GET /data/:name`
 
     curl --location 'http://localhost:3000/data/juravel_vintage'
